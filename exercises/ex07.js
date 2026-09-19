@@ -57,3 +57,4 @@ TIP: To print out the average salary with commas (i.e. 59,124), use the toLocale
     }  
 
     console.log ("In 2015, a person with "+education+"earned an average of" +salary.toLocaleString("en-US")+ "/year")
+                          
