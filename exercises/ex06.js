@@ -25,3 +25,4 @@ If eatsPlants equals true and eatsAnimals equals false, then herbivore should be
                 
 
     console.log (category )
+                         
